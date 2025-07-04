@@ -1,0 +1,63 @@
+You : hello
+Alice : hello sir, its good to see you 
+You : my name is kaif khan.call me kaif khan from now on 
+Alice : Hi Kaif Khan, nice to meet you. How can I help you?
+You : my name is 20 please remember 
+Alice : Got it, Kaif Khan. Is there anything else I can help you with
+You : how many states are there in bangladesh 
+Alice : There are 8 states in Bangladesh: Dhaka, Chittagong,
+You : where is india 
+Alice : India is located in South Asia, bordered by Pakistan, China, Nepal,
+You : how many countries are there in india 
+Alice : There are 28 states and 8 union territories in India.
+You : Can we travel at the speed of light in the future 
+top
+You : How are you 
+Alice : I'm doing well, thank you for asking. How can I help you?
+You : God 14 fold retracement 
+Alice : I'm sorry, I don't understand what you're asking. Could you
+You : cold coffee maker replacement 
+Alice : I'm sorry, I don't understand what you're asking. Could you
+You : program in python to print two numbers 
+Alice : I'm sorry, I don't understand what you're asking. Could you
+
+Alice : The national bird of India is the Indian peacock.
+
+You : how are you 
+Alice : I'm doing well, thank you for asking. How can I help you?
+You : what does id mean 
+Alice : ID stands for identification. It is a unique identifier used to identify an individual or entity.
+You : What is the matter? 
+Alice : What do you mean by "what is the matter"?
+You : matter science fiction 
+Alice : Matter science fiction is a genre of science fiction that deals with the physical properties of matter and its interactions with energy. It often explores themes such as nanotechnology, artificial intelligence, and alternate realities.
+You : hand watch 
+Alice : A hand watch is a type of timepiece that is worn on the wrist and typically has a strap or band. It is used to tell time and can come in a variety of styles, sizes, and materials.
+You : do me something 
+Alice : What would you like me to do for you?
+You : Happy 
+Alice : I'm glad to hear that you're happy! Is there anything else I can do for you?
+You : Alexa 
+Alice : I'm sorry, I don't understand what you're asking. Could you please rephrase your question?
+You : hello how are you 
+Alice : Hello there! I'm doing well, thank you for asking. How can I help you?
+You : friday 
+Alice : Friday is the sixth day of the week and is the last day before the weekend.
+You : Alexa 
+Alice : I'm sorry, I don't understand what you're asking. Could you please rephrase your question?
+You : how are you brother 
+Alice : Hi there! I'm doing well, thank you for asking. How can I help you?
+You : Tell me something 
+Alice : Sure! Did you know that the average human body contains enough iron to make a 3-inch nail?
+You : Song 
+Alice : What kind of song would you like to hear?
+You : the throne 
+Alice : The Throne by Jay-Z and Kanye West is a song about the power of wealth and success. It was released in 2011 as the lead single from their collaborative album Watch the Throne.
+You : Rock 
+Alice : Rock music is a genre of popular music that originated in the 1950s. It is characterized by a heavy use of electric guitars, drums, and bass. Rock music has been popular for decades and continues to be one of the most popular genres today.
+You : Rock 
+Alice : Rock music is a genre of popular music that originated in the 1950s. It is characterized by a heavy use of electric guitars, drums, and bass. Rock music has been popular for decades and continues to be one of the most popular genres today.
+You : Rao 
+Alice : I'm sorry, I don't understand what you're asking. Could you please rephrase your question?
+You : Rocky what 
+Alice : I'm sorry, I don't understand what you're asking. Could you please rephrase your question?
