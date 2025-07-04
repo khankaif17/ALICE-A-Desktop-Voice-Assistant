@@ -1,0 +1,30 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["open","launch","start","visit","goto"
+            ],
+            "responses":["open"
+            ]
+        },{
+            "tag":"whatsapp",
+            "patterns":["whatsapp","message send","chat"
+            ],
+            "responses":["whatsapp"
+            ]
+        },{
+            "tag":"bye",
+            "patterns":["exit","shutdown","sleep","close","stop","bye","good bye","see you later"
+            ],
+            "responses":["shuting down...","see you soon, my dear","you can call me anytime","bye bye see you next time","It will be nice you see you again, soon","pleasure to help you"
+            ]
+        },{
+            "tag":"alarm",
+            "patterns":["set an alarm","alarm","Alarm","wake me up","remind me"
+            ],
+            "responses":["alarm"
+            ]
+        }
+        
+    ] 
+}
